@@ -1,0 +1,196 @@
+﻿  geometry.cpp
+E:\myObj\myRender\myRender\geometry.cpp(5,69): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+E:\myObj\myRender\myRender\geometry.cpp(5,69): warning C4244:         with
+E:\myObj\myRender\myRender\geometry.cpp(5,69): warning C4244:         [
+E:\myObj\myRender\myRender\geometry.cpp(5,69): warning C4244:             T=int
+E:\myObj\myRender\myRender\geometry.cpp(5,69): warning C4244:         ]
+E:\myObj\myRender\myRender\geometry.cpp(5,69): warning C4244:         and
+E:\myObj\myRender\myRender\geometry.cpp(5,69): warning C4244:         [
+E:\myObj\myRender\myRender\geometry.cpp(5,69): warning C4244:             T=float
+E:\myObj\myRender\myRender\geometry.cpp(5,69): warning C4244:         ]
+E:\myObj\myRender\myRender\geometry.cpp(5,77): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+E:\myObj\myRender\myRender\geometry.cpp(5,77): warning C4244:         with
+E:\myObj\myRender\myRender\geometry.cpp(5,77): warning C4244:         [
+E:\myObj\myRender\myRender\geometry.cpp(5,77): warning C4244:             T=int
+E:\myObj\myRender\myRender\geometry.cpp(5,77): warning C4244:         ]
+E:\myObj\myRender\myRender\geometry.cpp(5,77): warning C4244:         and
+E:\myObj\myRender\myRender\geometry.cpp(5,77): warning C4244:         [
+E:\myObj\myRender\myRender\geometry.cpp(5,77): warning C4244:             T=float
+E:\myObj\myRender\myRender\geometry.cpp(5,77): warning C4244:         ]
+E:\myObj\myRender\myRender\geometry.cpp(5,85): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+E:\myObj\myRender\myRender\geometry.cpp(5,85): warning C4244:         with
+E:\myObj\myRender\myRender\geometry.cpp(5,85): warning C4244:         [
+E:\myObj\myRender\myRender\geometry.cpp(5,85): warning C4244:             T=int
+E:\myObj\myRender\myRender\geometry.cpp(5,85): warning C4244:         ]
+E:\myObj\myRender\myRender\geometry.cpp(5,85): warning C4244:         and
+E:\myObj\myRender\myRender\geometry.cpp(5,85): warning C4244:         [
+E:\myObj\myRender\myRender\geometry.cpp(5,85): warning C4244:             T=float
+E:\myObj\myRender\myRender\geometry.cpp(5,85): warning C4244:         ]
+E:\myObj\myRender\myRender\geometry.cpp(7,69): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+E:\myObj\myRender\myRender\geometry.cpp(7,69): warning C4244:         with
+E:\myObj\myRender\myRender\geometry.cpp(7,69): warning C4244:         [
+E:\myObj\myRender\myRender\geometry.cpp(7,69): warning C4244:             T=int
+E:\myObj\myRender\myRender\geometry.cpp(7,69): warning C4244:         ]
+E:\myObj\myRender\myRender\geometry.cpp(7,69): warning C4244:         and
+E:\myObj\myRender\myRender\geometry.cpp(7,69): warning C4244:         [
+E:\myObj\myRender\myRender\geometry.cpp(7,69): warning C4244:             T=float
+E:\myObj\myRender\myRender\geometry.cpp(7,69): warning C4244:         ]
+E:\myObj\myRender\myRender\geometry.cpp(7,77): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+E:\myObj\myRender\myRender\geometry.cpp(7,77): warning C4244:         with
+E:\myObj\myRender\myRender\geometry.cpp(7,77): warning C4244:         [
+E:\myObj\myRender\myRender\geometry.cpp(7,77): warning C4244:             T=int
+E:\myObj\myRender\myRender\geometry.cpp(7,77): warning C4244:         ]
+E:\myObj\myRender\myRender\geometry.cpp(7,77): warning C4244:         and
+E:\myObj\myRender\myRender\geometry.cpp(7,77): warning C4244:         [
+E:\myObj\myRender\myRender\geometry.cpp(7,77): warning C4244:             T=float
+E:\myObj\myRender\myRender\geometry.cpp(7,77): warning C4244:         ]
+  main.cpp
+E:\myObj\myRender\myRender\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\myObj\myRender\myRender\tgaimage.h(58,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\myObj\myRender\myRender\Shader.h(71,47): warning C4305: “=”: 从“double”到“float”截断
+  (编译源文件“main.cpp”)
+  
+E:\myObj\myRender\myRender\Shader.h(72,47): warning C4305: “=”: 从“double”到“float”截断
+  (编译源文件“main.cpp”)
+  
+E:\myObj\myRender\myRender\Shader.h(73,47): warning C4305: “=”: 从“double”到“float”截断
+  (编译源文件“main.cpp”)
+  
+E:\myObj\myRender\myRender\Shader.h(74,47): warning C4305: “=”: 从“double”到“float”截断
+  (编译源文件“main.cpp”)
+  
+E:\myObj\myRender\myRender\Shader.h(123,66): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+E:\myObj\myRender\myRender\Shader.h(123,66): warning C4244:         with
+E:\myObj\myRender\myRender\Shader.h(123,66): warning C4244:         [
+E:\myObj\myRender\myRender\Shader.h(123,66): warning C4244:             _Ty=float
+E:\myObj\myRender\myRender\Shader.h(123,66): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+E:\myObj\myRender\myRender\Shader.h(123,63): warning C4244: “=”: 从“const _Ty”转换到“unsigned char”，可能丢失数据
+E:\myObj\myRender\myRender\Shader.h(123,63): warning C4244:         with
+E:\myObj\myRender\myRender\Shader.h(123,63): warning C4244:         [
+E:\myObj\myRender\myRender\Shader.h(123,63): warning C4244:             _Ty=float
+E:\myObj\myRender\myRender\Shader.h(123,63): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+  model.cpp
+E:\myObj\myRender\myRender\tgaimage.h(58,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  (编译源文件“model.cpp”)
+  
+E:\myObj\myRender\myRender\model.cpp(85,55): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+E:\myObj\myRender\myRender\model.cpp(85,55): warning C4244:         with
+E:\myObj\myRender\myRender\model.cpp(85,55): warning C4244:         [
+E:\myObj\myRender\myRender\model.cpp(85,55): warning C4244:             T=float
+E:\myObj\myRender\myRender\model.cpp(85,55): warning C4244:         ]
+E:\myObj\myRender\myRender\model.cpp(85,55): warning C4244:         and
+E:\myObj\myRender\myRender\model.cpp(85,55): warning C4244:         [
+E:\myObj\myRender\myRender\model.cpp(85,55): warning C4244:             T=int
+E:\myObj\myRender\myRender\model.cpp(85,55): warning C4244:         ]
+E:\myObj\myRender\myRender\model.cpp(85,21): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+E:\myObj\myRender\myRender\model.cpp(85,21): warning C4244:         with
+E:\myObj\myRender\myRender\model.cpp(85,21): warning C4244:         [
+E:\myObj\myRender\myRender\model.cpp(85,21): warning C4244:             T=float
+E:\myObj\myRender\myRender\model.cpp(85,21): warning C4244:         ]
+E:\myObj\myRender\myRender\model.cpp(85,21): warning C4244:         and
+E:\myObj\myRender\myRender\model.cpp(85,21): warning C4244:         [
+E:\myObj\myRender\myRender\model.cpp(85,21): warning C4244:             T=int
+E:\myObj\myRender\myRender\model.cpp(85,21): warning C4244:         ]
+E:\myObj\myRender\myRender\model.cpp(90,54): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+E:\myObj\myRender\myRender\model.cpp(90,54): warning C4244:         with
+E:\myObj\myRender\myRender\model.cpp(90,54): warning C4244:         [
+E:\myObj\myRender\myRender\model.cpp(90,54): warning C4244:             T=float
+E:\myObj\myRender\myRender\model.cpp(90,54): warning C4244:         ]
+E:\myObj\myRender\myRender\model.cpp(90,54): warning C4244:         and
+E:\myObj\myRender\myRender\model.cpp(90,54): warning C4244:         [
+E:\myObj\myRender\myRender\model.cpp(90,54): warning C4244:             T=int
+E:\myObj\myRender\myRender\model.cpp(90,54): warning C4244:         ]
+E:\myObj\myRender\myRender\model.cpp(90,21): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+E:\myObj\myRender\myRender\model.cpp(90,21): warning C4244:         with
+E:\myObj\myRender\myRender\model.cpp(90,21): warning C4244:         [
+E:\myObj\myRender\myRender\model.cpp(90,21): warning C4244:             T=float
+E:\myObj\myRender\myRender\model.cpp(90,21): warning C4244:         ]
+E:\myObj\myRender\myRender\model.cpp(90,21): warning C4244:         and
+E:\myObj\myRender\myRender\model.cpp(90,21): warning C4244:         [
+E:\myObj\myRender\myRender\model.cpp(90,21): warning C4244:             T=int
+E:\myObj\myRender\myRender\model.cpp(90,21): warning C4244:         ]
+E:\myObj\myRender\myRender\model.cpp(103,56): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+E:\myObj\myRender\myRender\model.cpp(103,56): warning C4244:         with
+E:\myObj\myRender\myRender\model.cpp(103,56): warning C4244:         [
+E:\myObj\myRender\myRender\model.cpp(103,56): warning C4244:             T=float
+E:\myObj\myRender\myRender\model.cpp(103,56): warning C4244:         ]
+E:\myObj\myRender\myRender\model.cpp(103,56): warning C4244:         and
+E:\myObj\myRender\myRender\model.cpp(103,56): warning C4244:         [
+E:\myObj\myRender\myRender\model.cpp(103,56): warning C4244:             T=int
+E:\myObj\myRender\myRender\model.cpp(103,56): warning C4244:         ]
+E:\myObj\myRender\myRender\model.cpp(103,21): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+E:\myObj\myRender\myRender\model.cpp(103,21): warning C4244:         with
+E:\myObj\myRender\myRender\model.cpp(103,21): warning C4244:         [
+E:\myObj\myRender\myRender\model.cpp(103,21): warning C4244:             T=float
+E:\myObj\myRender\myRender\model.cpp(103,21): warning C4244:         ]
+E:\myObj\myRender\myRender\model.cpp(103,21): warning C4244:         and
+E:\myObj\myRender\myRender\model.cpp(103,21): warning C4244:         [
+E:\myObj\myRender\myRender\model.cpp(103,21): warning C4244:             T=int
+E:\myObj\myRender\myRender\model.cpp(103,21): warning C4244:         ]
+  RenderPipeline.cpp
+E:\myObj\myRender\myRender\tgaimage.h(58,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  (编译源文件“RenderPipeline.cpp”)
+  
+E:\myObj\myRender\myRender\RenderPipeline.cpp(130,23): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+E:\myObj\myRender\myRender\RenderPipeline.cpp(130,23): warning C4244:         with
+E:\myObj\myRender\myRender\RenderPipeline.cpp(130,23): warning C4244:         [
+E:\myObj\myRender\myRender\RenderPipeline.cpp(130,23): warning C4244:             T=float
+E:\myObj\myRender\myRender\RenderPipeline.cpp(130,23): warning C4244:         ]
+E:\myObj\myRender\myRender\RenderPipeline.cpp(130,23): warning C4244:         and
+E:\myObj\myRender\myRender\RenderPipeline.cpp(130,23): warning C4244:         [
+E:\myObj\myRender\myRender\RenderPipeline.cpp(130,23): warning C4244:             T=int
+E:\myObj\myRender\myRender\RenderPipeline.cpp(130,23): warning C4244:         ]
+E:\myObj\myRender\myRender\RenderPipeline.cpp(132,27): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+E:\myObj\myRender\myRender\RenderPipeline.cpp(132,27): warning C4244:         with
+E:\myObj\myRender\myRender\RenderPipeline.cpp(132,27): warning C4244:         [
+E:\myObj\myRender\myRender\RenderPipeline.cpp(132,27): warning C4244:             T=float
+E:\myObj\myRender\myRender\RenderPipeline.cpp(132,27): warning C4244:         ]
+E:\myObj\myRender\myRender\RenderPipeline.cpp(132,27): warning C4244:         and
+E:\myObj\myRender\myRender\RenderPipeline.cpp(132,27): warning C4244:         [
+E:\myObj\myRender\myRender\RenderPipeline.cpp(132,27): warning C4244:             T=int
+E:\myObj\myRender\myRender\RenderPipeline.cpp(132,27): warning C4244:         ]
+  Shader.cpp
+E:\myObj\myRender\myRender\tgaimage.h(58,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  (编译源文件“Shader.cpp”)
+  
+E:\myObj\myRender\myRender\Shader.h(71,47): warning C4305: “=”: 从“double”到“float”截断
+  (编译源文件“Shader.cpp”)
+  
+E:\myObj\myRender\myRender\Shader.h(72,47): warning C4305: “=”: 从“double”到“float”截断
+  (编译源文件“Shader.cpp”)
+  
+E:\myObj\myRender\myRender\Shader.h(73,47): warning C4305: “=”: 从“double”到“float”截断
+  (编译源文件“Shader.cpp”)
+  
+E:\myObj\myRender\myRender\Shader.h(74,47): warning C4305: “=”: 从“double”到“float”截断
+  (编译源文件“Shader.cpp”)
+  
+E:\myObj\myRender\myRender\Shader.h(123,66): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+E:\myObj\myRender\myRender\Shader.h(123,66): warning C4244:         with
+E:\myObj\myRender\myRender\Shader.h(123,66): warning C4244:         [
+E:\myObj\myRender\myRender\Shader.h(123,66): warning C4244:             _Ty=float
+E:\myObj\myRender\myRender\Shader.h(123,66): warning C4244:         ]
+  (编译源文件“Shader.cpp”)
+  
+E:\myObj\myRender\myRender\Shader.h(123,63): warning C4244: “=”: 从“const _Ty”转换到“unsigned char”，可能丢失数据
+E:\myObj\myRender\myRender\Shader.h(123,63): warning C4244:         with
+E:\myObj\myRender\myRender\Shader.h(123,63): warning C4244:         [
+E:\myObj\myRender\myRender\Shader.h(123,63): warning C4244:             _Ty=float
+E:\myObj\myRender\myRender\Shader.h(123,63): warning C4244:         ]
+  (编译源文件“Shader.cpp”)
+  
+  tgaimage.cpp
+E:\myObj\myRender\myRender\tgaimage.h(58,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  (编译源文件“tgaimage.cpp”)
+  
+  正在生成代码
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 566 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  myRender.vcxproj -> E:\myObj\myRender\x64\Release\myRender.exe

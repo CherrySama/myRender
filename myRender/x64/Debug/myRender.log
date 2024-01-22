@@ -1,0 +1,69 @@
+﻿  main.cpp
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\tgaimage.h(58,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\Shader.h(71,1): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\Shader.h(72,1): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\Shader.h(73,1): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\Shader.h(74,1): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\Shader.h(123,66): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\Shader.h(123,63): warning C4244: “=”: 从“const _Ty”转换到“unsigned char”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+  model.cpp
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\model.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\tgaimage.h(58,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\model.cpp(50,14): error C2064: 项不会计算为接受 1 个参数的函数
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\model.cpp(52,1): error C2144: 语法错误:“int”的前面应有“;”
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\model.cpp(52,21): error C2601: “Model::nverts”: 本地函数定义是非法的
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\model.cpp(6): message : 此行有一个“{”没有匹配项
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\model.cpp(56,21): error C2601: “Model::nfaces”: 本地函数定义是非法的
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\model.cpp(6): message : 此行有一个“{”没有匹配项
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\model.cpp(60,39): error C2601: “Model::face”: 本地函数定义是非法的
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\model.cpp(6): message : 此行有一个“{”没有匹配项
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\model.cpp(66,26): error C2601: “Model::vert”: 本地函数定义是非法的
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\model.cpp(6): message : 此行有一个“{”没有匹配项
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\model.cpp(70,43): error C2601: “Model::vert”: 本地函数定义是非法的
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\model.cpp(6): message : 此行有一个“{”没有匹配项
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\model.cpp(74,83): error C2601: “Model::load_texture”: 本地函数定义是非法的
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\model.cpp(6): message : 此行有一个“{”没有匹配项
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\model.cpp(84,36): error C2601: “Model::diffuse”: 本地函数定义是非法的
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\model.cpp(6): message : 此行有一个“{”没有匹配项
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\model.cpp(89,32): error C2601: “Model::normal”: 本地函数定义是非法的
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\model.cpp(6): message : 此行有一个“{”没有匹配项
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\model.cpp(98,41): error C2601: “Model::uv”: 本地函数定义是非法的
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\model.cpp(6): message : 此行有一个“{”没有匹配项
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\model.cpp(102,34): error C2601: “Model::specular”: 本地函数定义是非法的
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\model.cpp(6): message : 此行有一个“{”没有匹配项
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\model.cpp(107,45): error C2601: “Model::normal”: 本地函数定义是非法的
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\model.cpp(6): message : 此行有一个“{”没有匹配项
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\model.cpp(6): fatal error C1075: “{”: 未找到匹配令牌
+  RenderPipeline.cpp
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\tgaimage.h(58,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\RenderPipeline.cpp(130,23): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\RenderPipeline.cpp(132,27): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  test.cpp
+  TriMesh.cpp
+C:\Users\Lenovo\Desktop\myObj\Renderers\myRender\myRender\TriMesh.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
